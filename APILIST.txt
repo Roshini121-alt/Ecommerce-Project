@@ -1,0 +1,15 @@
+products--
+1)get products.
+2)add a products.
+3)get one product.
+4)rate product.
+5)filter products
+
+add items to cart
+remove items from cart
+get items of cart
+
+usercontroller
+signup
+signin
+
